@@ -20,4 +20,4 @@ steps:
   inputs:
     azureSubscription: 'AzureSubClemm'
     appName: 'clemmdevops'
-    package: $(System.ArtifactsDirectory)/**/*.zip
+    slotName: production
