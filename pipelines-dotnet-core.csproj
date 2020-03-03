@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>pipelines_dotnet_core</RootNamespace>
   </PropertyGroup>
 
 </Project>
